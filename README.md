@@ -23,7 +23,7 @@ This is an algorithmic representation of previously mentioned flowchart.
 
 This is the database erd diagram for the implemented database.
 
-![](images/architecture.png "")
+![](images/database.png "")
 
 
 # Pseudocode
